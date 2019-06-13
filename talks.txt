@@ -1,0 +1,66 @@
+1.- De Monolítico a Microservicios 49.0
+2.- Concurrencia y paralelismo con Python para seres humanos 47.0
+3.- Los riesgos de la herencia: por qué es preferible usar composición 44.0
+4.- Entendiendo Blockchain con Python 44.0
+5.- Introducción a algoritmos genéticos: aplicaciones e implementación con Python  42.0
+6.- No usemos docker ... mejor más python 40.0
+7.- Concurrencia y paralelismo en python 39.0
+8.- Creando un BlockChain con Python 39.0
+9.- Sopita de datos con espinacas (Web scraping) 39.0
+10.- Lecciones aprendidas de trabajar con tecnologías Blockchain y Python 38.0
+11.- Conectando cámaras, smartphones y otros dispositivos mediante APIS y Flask. 38.0
+12.- Automatizando el análisis de datos con Pandas. 38.0
+13.- Raspando internet: Introducción al web scraping con Python y requests-html 36.0
+14.- Python Data Model 36.0
+15.- Introducción a DevOps con gitlab y python. 36.0
+16.- Introducción práctica a la visión computacional 36.0
+17.- Analizando la calidad del aire con Python 36.0
+18.- Cómo Django REST Framework resuelve los problemas comunes al hacer un API 35.0
+19.- Deploy con Python: ¡Más fácil imposible! 34.0
+20.- Creando un micro framework WSGI con el PEP 3333 34.0
+21.- Tipe Hints 34.0
+22.- En verdad es más fácil pedir perdón que permiso 33.0
+23.- MicroPython como lenguaje para el desarrollo de dispositivos IoT - Talk 33.0
+24.- Monitoring 101 33.0
+25.- Como integrar Rust a tus proyectos Python 32.0
+26.- Lo qué me hubiera gustado saber antes de trabajar con Datos Abiertos  32.0
+27.- Creemos que podría gustarle esta charla: Una Introducción a Sistemas de Recomen… 32.0
+28.- Detectando bordes... un primer acercamiento a la Visión Computacional. 32.0
+29.- Celular, un testigo posible y silencioso 32.0
+30.- El guardián en el explorador 32.0
+31.- Qiskit: Utilizando un computador cuántico real con Python 31.0
+32.- ¡No más dolor al acceder a los datos, prueba Intake! 31.0
+33.- Un paseito por Cpython y sus estructuras de datos, hasta que la expansión de nu… 30.0
+34.- Visualización de Datos con Altair 30.0
+35.- Python en Microcontroladores 29.0
+36.- Taller Basico de Docker 29.0
+37.- gRPC + Design Patterns 29.0
+38.- ¿Por qué utilizar Behavior Driven Development (BDD)? 28.0
+39.-  Método para convertir software como producto a software como servicio en djang… 28.0
+40.- Escalabilidad en Python para `Dummies` 28.0
+41.- Dando nuestros primeros paso con Deep Learning 28.0
+42.-  Más backend que Fronted! con django y vuejs 28.0
+43.- Analizando la calidad del aire con Python y datos ciudadanos 28.0
+44.- AfroPython: Emporando personas negras com Python en Brasil 28.0
+45.- python, GDAL y sentinelHUB para agricultura 27.0
+46.- Supercomputadoras para ayuda humanitaria:  Python y Crowdsourcing al rescate. 26.0
+47.- Migrando datos heredados hacia Django 26.0
+48.- One Team to Rule Them All: Una Breve Introducción al Análisis Descriptivo con P… 26.0
+49.- Python, Gobiernos y Contratos 26.0
+50.- Aplicaciones de Deep Learning con python y tensorflow 25.0
+51.- Python para inferencia causal 25.0
+52.- Biomoléculas en acción: análisis de dinámicas moleculares con MDAnalysis 25.0
+53.- Stream Analytics con python | Lecciones aprendidas 23.0
+54.- Migrando proyectos de python 2 a python 3 22.0
+55.- 7 hábitos que te harán un mejor ingeniero de software 22.0
+56.-  Desarrollo de aplicaciones web dinámicas con python y sin javascript. 22.0
+57.- ¿Qué clase de "toolset" es Pyramid + Vue? 20.0
+58.- Me canso, ganso: Generador de discursos de AMLO usando LSTM RNN 20.0
+59.- Naciste científico (de datos) 20.0
+60.- Cómo ayudar a los bancos a ofrecerle a sus clientes lo que necesitan. 18.0
+61.- Leyes, Gobiernos y la nueva dictadura de Python. 18.0
+62.- ¿Cuál es el propósito de Análisis de Sentimiento? 18.0
+63.- NLP para recomendar Obras de Arte 17.0
+64.- Contaminacion y emociones 14.0
+65.- Python en la era de los datos 14.0
+66.- Python for  8.8
